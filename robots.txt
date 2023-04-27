@@ -1,3 +1,7 @@
 # The Common Crawl dataset. Used by GPT-3 (and GPT-3.5) and available for others to use.
 User-agent: CCBot
 Disallow: /
+
+# The example for img2dataset, although the default is *None*
+User-agent: img2dataset
+Disallow: /
