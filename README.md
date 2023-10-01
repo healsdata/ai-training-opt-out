@@ -23,3 +23,4 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * [Stability AI plans to let artists opt out of Stable Diffusion 3 image training](https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/)
 * [Stop AI Data Mining in its Tracks with AI.txt](https://site.spawning.ai/spawning-ai-txt)
 * [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
+* [An update on web publisher controls](https://blog.google/technology/ai/an-update-on-web-publisher-controls/) -- Google's VP of Trust

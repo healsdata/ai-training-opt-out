@@ -9,3 +9,7 @@ Disallow: /
 # GPTBot is OpenAI's web crawler
 User-agent: GPTBot
 Disallow: /
+
+# Google's Bard and Vertex AI generative APIs
+User-agent: Google-Extended
+Disallow: /
