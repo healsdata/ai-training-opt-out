@@ -16,6 +16,7 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * **StabilityAI**: Stable Diffusion 3 will honor opt-out requests on [haveibeentrained.com](https://haveibeentrained.com/).
 * **AWS**: "AWS may be using your data to train its AI models, and you may have unwittingly consented to it. Prepare to jump through a series of complex hoops to stop it." -- [How to Stop Feeding AWS’s AI With Your Data](https://www.lastweekinaws.com/blog/How-to-Stop-Feeding-AWSs-AI-With-Your-Data/)
 * **Substack** "If you do NOT want your publication to be used to train AI, open your publication, go to Settings > Publication details and switch it on."
+* **[Kudurru](https://kudurru.ai/)**: Actively block AI scrapers from your website with Spawning's defense network
 
 # References
 
