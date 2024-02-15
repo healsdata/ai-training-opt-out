@@ -38,3 +38,7 @@ Disallow: /
 # ByteDance's bot used to gather data for their LLMs, including Doubao.
 User-agent: Bytespider
 Disallow: /
+
+# Brandwatch - "AI to discover new trends"
+User-agent: magpie-crawler
+Disallow: /
