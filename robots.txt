@@ -10,6 +10,16 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+User-agent: ChatGPT-User
+Disallow: /
+
 # Google's Bard and Vertex AI generative APIs
 User-agent: Google-Extended
+Disallow: /
+
+# Speculative blocks for Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
 Disallow: /
