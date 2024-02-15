@@ -23,3 +23,18 @@ Disallow: /
 
 User-agent: Claude-Web
 Disallow: /
+
+# webz.io - they sell data for training LLMs.
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+# Meta's bot that crawls public web pages to improve language models
+User-agent: FacebookBot
+Disallow: /
+
+# ByteDance's bot used to gather data for their LLMs, including Doubao.
+User-agent: Bytespider
+Disallow: /
