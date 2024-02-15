@@ -8,6 +8,7 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * [**headers.txt**](/headers.txt) HTTP headers you can add to your responses. This is more more involved and installation is outside the scope of this document.
 * [**ai.txt**](/ai.txt) An alternative to robots.txt created by Spawning, the company behind [haveibeentrained.com](https://haveibeentrained.com/).
 * [**ip-ranges.txt**](/ip-ranges.txt) Known IP ranges for AI crawlers. These will change over time, so links to the canonical source is included.
+* [**tdmrep.json**](/.well-known/tdmrep.json) A Web protocol, capable of expressing the reservation of rights relative to text & data mining (TDM)
 
 # Other Opt-Outs
 
@@ -26,3 +27,4 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
 * [An update on web publisher controls](https://blog.google/technology/ai/an-update-on-web-publisher-controls/) -- Google's VP of Trust
 * [Dark Visitors: A List of Known AI Agents on the Internet](https://darkvisitors.com/) 
+* [TDM Reservation Protocol (TDMRep)](https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240202/)
