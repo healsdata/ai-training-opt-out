@@ -17,6 +17,7 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * **AWS**: "AWS may be using your data to train its AI models, and you may have unwittingly consented to it. Prepare to jump through a series of complex hoops to stop it." -- [How to Stop Feeding AWS’s AI With Your Data](https://www.lastweekinaws.com/blog/How-to-Stop-Feeding-AWSs-AI-With-Your-Data/)
 * **Substack** "If you do NOT want your publication to be used to train AI, open your publication, go to Settings > Publication details and switch it on."
 * **[Wordpress](https://wordpress.com/support/privacy-settings/#prevent-third-party-sharing)** and **[Tumblr](https://help.tumblr.com/hc/en-us/articles/115011611747-Privacy-options#01H692KHGF5N3SVHDV02P5W34P)** are both opt-out for your post content.
+* **The Stack** Find your repo(s) on [Am I in The Stack?](https://huggingface.co/spaces/bigcode/in-the-stack) and then click Opt-Out at the bottom to open a request.
 
 # References
 
