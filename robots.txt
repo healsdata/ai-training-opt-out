@@ -10,6 +10,7 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+# ChatGPT-User takes direct actions on behalf of ChatGPT users
 User-agent: ChatGPT-User
 Disallow: /
 
