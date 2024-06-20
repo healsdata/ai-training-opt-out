@@ -43,3 +43,7 @@ Disallow: /
 # Brandwatch - "AI to discover new trends"
 User-agent: magpie-crawler
 Disallow: /
+
+# Perplexity.ai
+User-agent: PerplexityBot
+Disallow: /
