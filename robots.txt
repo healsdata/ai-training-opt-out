@@ -25,6 +25,9 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
+User-agent: ClaudeBot
+Disallow: /
+
 # webz.io - they sell data for training LLMs.
 User-agent: Omgilibot
 Disallow: /
