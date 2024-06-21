@@ -3,7 +3,7 @@ Known tags and settings suggested to opt out of having your content used for AI 
 
 # Contents
 
-* [**robots.txt**](/robots.txt) A copy-and-paste collection of tags to add to your own robots.txt
+* [**robots.txt**](/robots.txt) A copy-and-paste collection of tags to add to your own robots.txt. (You can automate generation of this file with [darkvisitors.com](https://darkvisitors.com/))
 * [**meta-tags.html**](/meta-tags.html) A copy-and-paste collection of tags to add to your own `<head>`
 * [**headers.txt**](/headers.txt) HTTP headers you can add to your responses. This is more more involved and installation is outside the scope of this document.
 * [**ai.txt**](/ai.txt) An alternative to robots.txt created by Spawning, the company behind [haveibeentrained.com](https://haveibeentrained.com/).
