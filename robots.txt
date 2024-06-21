@@ -1,52 +1,117 @@
-# The Common Crawl dataset. Original source for GPT and others.
-User-agent: CCBot
-Disallow: /
-
 # The example for img2dataset, although the default is *None*
 User-agent: img2dataset
-Disallow: /
-
-# GPTBot is OpenAI's web crawler
-User-agent: GPTBot
-Disallow: /
-
-# ChatGPT-User takes direct actions on behalf of ChatGPT users
-User-agent: ChatGPT-User
-Disallow: /
-
-# Google's Bard and Vertex AI generative APIs
-User-agent: Google-Extended
-Disallow: /
-
-# Speculative blocks for Anthropic
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: Claude-Web
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-# webz.io - they sell data for training LLMs.
-User-agent: Omgilibot
-Disallow: /
-
-User-agent: Omgili
-Disallow: /
-
-# Meta's bot that crawls public web pages to improve language models
-User-agent: FacebookBot
-Disallow: /
-
-# ByteDance's bot used to gather data for their LLMs, including Doubao.
-User-agent: Bytespider
 Disallow: /
 
 # Brandwatch - "AI to discover new trends"
 User-agent: magpie-crawler
 Disallow: /
 
-# Perplexity.ai
+# webz.io - they sell data for training LLMs.
+User-agent: Omgilibot
+Disallow: /
+
+# Items below were sourced from darkvisitors.com
+# Categories included: "AI Data Scraper", "AI Assistant", "AI Search Crawler", "Undocumented AI Agent"
+
+# AI Search Crawler
+# https://darkvisitors.com/agents/amazonbot
+
+User-agent: Amazonbot
+Disallow: /
+
+# Undocumented AI Agent
+# https://darkvisitors.com/agents/anthropic-ai
+
+User-agent: anthropic-ai
+Disallow: /
+
+# AI Search Crawler
+# https://darkvisitors.com/agents/applebot
+
+User-agent: Applebot
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/applebot-extended
+
+User-agent: Applebot-Extended
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/bytespider
+
+User-agent: Bytespider
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/ccbot
+
+User-agent: CCBot
+Disallow: /
+
+# AI Assistant
+# https://darkvisitors.com/agents/chatgpt-user
+
+User-agent: ChatGPT-User
+Disallow: /
+
+# Undocumented AI Agent
+# https://darkvisitors.com/agents/claude-web
+
+User-agent: Claude-Web
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/claudebot
+
+User-agent: ClaudeBot
+Disallow: /
+
+# Undocumented AI Agent
+# https://darkvisitors.com/agents/cohere-ai
+
+User-agent: cohere-ai
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/diffbot
+
+User-agent: Diffbot
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/facebookbot
+
+User-agent: FacebookBot
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/google-extended
+
+User-agent: Google-Extended
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/gptbot
+
+User-agent: GPTBot
+Disallow: /
+
+# AI Data Scraper
+# https://darkvisitors.com/agents/omgili
+
+User-agent: omgili
+Disallow: /
+
+# AI Search Crawler
+# https://darkvisitors.com/agents/perplexitybot
+
 User-agent: PerplexityBot
 Disallow: /
+
+# AI Search Crawler
+# https://darkvisitors.com/agents/youbot
+
+User-agent: YouBot
+Disallow: /
+
