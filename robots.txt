@@ -25,6 +25,9 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
+User-agent: ClaudeBot
+Disallow: /
+
 # webz.io - they sell data for training LLMs.
 User-agent: Omgilibot
 Disallow: /
@@ -42,4 +45,8 @@ Disallow: /
 
 # Brandwatch - "AI to discover new trends"
 User-agent: magpie-crawler
+Disallow: /
+
+# Perplexity.ai
+User-agent: PerplexityBot
 Disallow: /
