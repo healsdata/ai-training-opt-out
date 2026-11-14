@@ -12,7 +12,7 @@ Known tags and settings suggested to opt out of having your content used for AI 
 
 # Other Opt-Outs
 
-* **OpenAI** (Includes ChaGPT and DALL·E): You can opt-out of having your input and output to their services used to train by emailing your organization ID to [support@openai.com](mailto:support@openai.com). *Note: This doesn't include any data they scraped to train their model.*
+* **OpenAI** (ChatGPT): On a personal Free, Plus, or Pro account, go to Settings > Data controls and turn off "Improve the model for everyone." OpenAI says new conversations then will not be used to train its models, and chat history stays. This setting is on by default. Exceptions: Trusted Access sessions (OpenAI mentions Daybreak), and any conversation you give thumbs up or thumbs down feedback on. Voice mode and Codex have separate training controls. By default, OpenAI does not use content from ChatGPT Business, Enterprise, Edu, ChatGPT for Healthcare, or the API Platform to train its models. Signed-out users can turn the same setting off in that browser. This does not cover data OpenAI scraped from the web; use the robots.txt tags above for that. Source: [Data controls in ChatGPT](https://help.openai.com/en/articles/7730893-data-controls-faq).
 * **StabilityAI**: Stable Diffusion 3 will honor opt-out requests on [haveibeentrained.com](https://haveibeentrained.com/).
 * **AWS**: "AWS may be using your data to train its AI models, and you may have unwittingly consented to it. Prepare to jump through a series of complex hoops to stop it." -- [How to Stop Feeding AWS’s AI With Your Data](https://www.lastweekinaws.com/blog/How-to-Stop-Feeding-AWSs-AI-With-Your-Data/)
 * **Substack** "If you do NOT want your publication to be used to train AI, open your publication, go to Settings > Publication details and switch it on."
@@ -30,3 +30,4 @@ Known tags and settings suggested to opt out of having your content used for AI 
 * [An update on web publisher controls](https://blog.google/technology/ai/an-update-on-web-publisher-controls/) -- Google's VP of Trust
 * [Dark Visitors: A List of Known AI Agents on the Internet](https://darkvisitors.com/) 
 * [TDM Reservation Protocol (TDMRep)](https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240202/)
+* [The AI opt-out checklist (Privacy Toggles)](https://privacytoggles.com/checklist/), dated, vendor-sourced steps for consumer app training toggles, including ChatGPT.
